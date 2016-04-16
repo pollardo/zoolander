@@ -1,0 +1,1 @@
+Zoolander is a middleware that works with existing key value stores.  It overrides their support for partitioning **and** replication for predictability.  In turn, the end user gets predictably fast response times.
